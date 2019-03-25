@@ -1,0 +1,60 @@
+:title: Květiny v pohádkách, mýtech a legendách
+:author: Králová Jaroslava
+:email:  symbolika@bobek.cz
+:revnumber: 1.0
+:revdate: {docdate}
+:revyear: 2019
+:subject: Květiny v pohádkách, mýtech a legendách
+:keywords: symboly, pohádky, příběhy, květiny
+:doctype: book
+:media: screen
+:front-cover-image: image:cover.jpg[Front Cover,1050,1600]
+:toc: left
+:toclevels: 2
+:toc-title: Obsah
+:numbered:
+:idprefix:
+:idseparator: -
+:seclink:
+:secanchors:
+:title-separator: {sp}|
+:icons: font
+:lang: cs
+:language: javadocript
+:experimental:
+:pdf-fontsdir: ./styles/pdf/fonts
+:pdf-stylesdir: ./styles/pdf
+:pdf-style: infoq-screen
+// ifndef::ebook-format[:leveloffset: 1]
+:leveloffset: 1
+// = {title}
+
+ifeval::["{backend}" == "html5"]
+image:cover.jpg[]
+endif::[]
+
+[colophon#colophon%nonfacing]
+include::chapters/colophon.adoc[]
+
+[preface]
+include::chapters/annotation.adoc[]
+
+include::chapters/kvetiny_svet.adoc[]
+
+image::20161125-165519_0104.jpg[role=foto]
+
+include::chapters/kvetiny.adoc[]
+
+image::20161125-165519_0104.jpg[role=foto]
+
+include::chapters/prozradi.adoc[]
+
+image::20070205-204037_3293.jpg[role=foto]
+
+include::chapters/zdroje.adoc[]
+
+
+//ifdef::backend-pdf,backend-docbook[]
+//[index]
+//== Index
+//endif::[]s
