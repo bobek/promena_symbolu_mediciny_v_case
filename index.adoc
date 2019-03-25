@@ -41,15 +41,15 @@ include::chapters/annotation.adoc[]
 
 include::chapters/kvetiny_svet.adoc[]
 
-image::20161125-165519_0104.jpg[role=foto]
+image::20080504-073741_8098.jpg[role=foto]
 
 include::chapters/kvetiny.adoc[]
 
-image::20161125-165519_0104.jpg[role=foto]
+image::20080503-111114_8088.jpg[role=foto]
 
 include::chapters/prozradi.adoc[]
 
-image::20070205-204037_3293.jpg[role=foto]
+image::20080608-120656_8300.jpg[role=foto]
 
 include::chapters/zdroje.adoc[]
 

@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="78.619517"
-     inkscape:cy="479.91188"
+     inkscape:cx="461.46733"
+     inkscape:cy="544.56164"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,31 +57,38 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       sodipodi:absref="/home/bobek/Sources/bobek.cz/kvetiny/images/20161125-160618_0046_orig.jpg"
-       xlink:href="20161125-160618_0046_orig.jpg"
-       width="448.58212"
-       height="299.05475"
+       sodipodi:absref="/home/bobek/Sources/bobek.cz/kvetiny/images/20060413-101255_0463.jpg"
+       xlink:href="20060413-101255_0463.jpg"
+       width="366.86401"
+       height="298.89749"
        preserveAspectRatio="none"
-       id="image894"
-       x="-99.936882"
-       y="0.06190636" />
+       id="image981"
+       x="-2.4905338"
+       y="-0.23268998" />
+    <rect
+       y="27.838974"
+       x="-9.4494066"
+       height="45.686008"
+       width="229.43155"
+       id="rect984"
+       style="opacity:1;fill:#000000;fill-opacity:0.36554625;stroke:none;stroke-width:1.3088063;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;line-height:11.6569519px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.46627805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="6.0920644"
-       y="109.3595"
+       y="43.756081"
        id="text4544"><tspan
          sodipodi:role="line"
          id="tspan905"
          x="6.0920644"
-         y="109.3595">Květiny v pohádkách,</tspan><tspan
+         y="43.756081">Květiny v pohádkách,</tspan><tspan
          sodipodi:role="line"
          x="6.0920644"
-         y="121.01645"
-         id="tspan830"></tspan><tspan
+         y="55.413033"
+         id="tspan830" /><tspan
          sodipodi:role="line"
          x="6.0920644"
-         y="132.6734"
+         y="67.069984"
          id="tspan832">mýtech a legendách</tspan></text>
     <rect
        style="opacity:1;fill:#000000;fill-opacity:0.36554625;stroke:none;stroke-width:1.15419698;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
