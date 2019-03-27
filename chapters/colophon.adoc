@@ -7,8 +7,3 @@ Published by {author}. First published at: https://www.bobek.cz/funeralni-symbol
 Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/[Attribution-NonCommercial-ShareAlike 4.0 International].
 
 image::by-nc-sa.png[cc-by-nc-sa, 100]
-
-ISBN TODO (html) +
-ISBN TODO (pdf) +
-ISBN TODO (ePub) +
-ISBN TODO (Mobipocket)
