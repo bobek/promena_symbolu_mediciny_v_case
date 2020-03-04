@@ -40,7 +40,7 @@ namespace :book do
     desc 'rename generated files to something nicer'
     task :rename do
       Dir.glob(File.join('out', 'index*')) do |f|
-        new = f.gsub(/index/, 'kvetiny_v_pohadkach_mytech_legendach').gsub(/-kf8\.epub/, '.mobi')
+        new = f.gsub(/index/, 'promena_symbolu_mediciny_v_case').gsub(/-kf8\.epub/, '.mobi')
         puts("#{f} -> #{new}")
         File.rename(f, new)
       end

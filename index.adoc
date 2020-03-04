@@ -1,17 +1,17 @@
-:title: Květiny v pohádkách, mýtech a legendách
-:author: Králová Jaroslava
+:title: Proměna symbolů medicíny v čase 
+:author: PhDr. Jaroslava Králová,  Doc. PhDr. Helena Kisvetrová, Ph.D.
 :email:  symbolika@bobek.cz
 :revnumber: 1.0
 :revdate: {docdate}
-:revyear: 2019
-:subject: Květiny v pohádkách, mýtech a legendách
-:keywords: symboly, pohádky, příběhy, květiny
-:doctype: book
+:revyear: 2020
+:subject: Proměna symbolů medicíny v čase
+:keywords: symboly, medicína
+:doctype: article
 :media: screen
-:front-cover-image: image:cover.jpg[Front Cover,1050,1600]
 :toc: left
 :toclevels: 2
 :toc-title: Obsah
+:figure-caption: Obrázek
 :numbered:
 :idprefix:
 :idseparator: -
@@ -29,27 +29,13 @@
 :leveloffset: 1
 // = {title}
 
-ifeval::["{backend}" == "html5"]
-image:cover.jpg[]
-endif::[]
-
 [colophon#colophon%nonfacing]
 include::chapters/colophon.adoc[]
 
-[preface]
-include::chapters/annotation.adoc[]
+// [preface]
+// include::chapters/annotation.adoc[]
 
-include::chapters/kvetiny_svet.adoc[]
-
-image::20080504-073741_8098.jpg[role=foto]
-
-include::chapters/kvetiny.adoc[]
-
-image::20080503-111114_8088.jpg[role=foto]
-
-include::chapters/prozradi.adoc[]
-
-image::20080608-120656_8300.jpg[role=foto]
+include::chapters/text.adoc[]
 
 include::chapters/zdroje.adoc[]
 
