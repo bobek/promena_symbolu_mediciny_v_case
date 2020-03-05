@@ -1,6 +1,7 @@
 = {title}
 
 (C) {revyear} {author}. Version {revnumber}. +
+(C) Unmarked photos by Antonín Král, https://pixhektar.com[pixhektar.com]
 
 Published by {author}. First published at: https://www.bobek.cz/promena-symbolu-mediciny-v-case/. +
 Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/[Attribution-NonCommercial-ShareAlike 4.0 International].
